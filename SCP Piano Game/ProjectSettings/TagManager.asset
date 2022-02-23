@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Loose
+  - Deathbody
+  - eq
+  - wood
+  - stone
+  - fireball
+  - blood
+  - body
+  - glass
+  - metall_door
+  - wood_door
+  - dirt
+  - metall
+  - wood_door_glass
+  - petrol
+  - targets
+  - rycle
+  - Piano
   layers:
   - Default
   - TransparentFX
@@ -11,7 +29,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Piano
   - 
   - 
   - 
